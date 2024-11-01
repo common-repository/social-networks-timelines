@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: social-networks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-10 12:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: BestWebSoft <info@bestwebsoft.com>\n"
+"Language-Team: Piensaenbinario <garciamartinezmiguelignacio@gmail.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/widget.php:8
+msgid "Twitter timeline with your new post"
+msgstr "Timeline de Twitter con sus últimas entradas"
+
+#: ../social-network-timelines.php:65
+msgid "Social Networks"
+msgstr "Redes Sociales"
+
+#: ../social-network-timelines.php:74
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../social-network-timelines.php:78
+msgid "Css class"
+msgstr "Clase css"
+
+#: ../social-network-timelines.php:82
+msgid "Data widget id"
+msgstr "Identificador widget"
+
+#: ../social-network-timelines.php:86
+msgid "Height"
+msgstr "Alto"
+
+#: ../social-network-timelines.php:90
+msgid "Href"
+msgstr "Enlace"
+
+#: ../social-network-timelines.php:94
+msgid "Target"
+msgstr "Target"
+
+#: ../social-network-timelines.php:98
+msgid "Title"
+msgstr "Título"
+
+#: ../social-network-timelines.php:102
+msgid "Width"
+msgstr "Ancho"
+
+#: ../social-network-timelines.php:106
+msgid "Link title"
+msgstr "Título del enlace"
+
+#: ../social-network-timelines.php:109
+msgid "Save"
+msgstr "Guardar"
+
+#~ msgid "Social Network"
+#~ msgstr "Redes Sociales"
+
+#~ msgid "class"
+#~ msgstr "Clase css"
+
+#~ msgid "settings"
+#~ msgstr "Configuración"
+
+#~ msgid "Page Not Found"
+#~ msgstr "Página no encontrada"
+
+#~ msgid "Need help?"
+#~ msgstr "¿Necesitas ayuda?"
+
+#~ msgid "Client area"
+#~ msgstr "Área clientes"
+
+#~ msgid "Themes"
+#~ msgstr "Temas"
+
+#~ msgid "Plugins"
+#~ msgstr "Plugins"
+
+#~ msgid "All"
+#~ msgstr "Todo"
+
+#~ msgid "Installed"
+#~ msgstr "Instalado"
+
+#~ msgid "Recommended"
+#~ msgstr "Recomendado"
+
+#~ msgid "Installed plugins"
+#~ msgstr "Plugins instalados"
+
+#~ msgid "Learn more"
+#~ msgstr "Leer más..."
+
+#~ msgid "Activate this plugin"
+#~ msgstr "Activar este plugin"
+
+#~ msgid "Activate"
+#~ msgstr "Activar"
+
+#~ msgid "Go"
+#~ msgstr "Ir"
+
+#~ msgid "Recommended plugins"
+#~ msgstr "Plugins recomendados"
+
+#~ msgid "Install now"
+#~ msgstr "Instalar ahora"
+
+#~ msgid "Try again"
+#~ msgstr "Volver a intentar"
+
+#~ msgid "Install Now"
+#~ msgstr "Instalar Ahora"
+
+#~ msgid "Update"
+#~ msgstr "Actualización"
+
+#~ msgid "Details"
+#~ msgstr "Detalles"
+
+#~ msgid "Already Installed"
+#~ msgstr "Ya instalado"
+
+#~ msgid "This post is password protected. Enter the password to view comments."
+#~ msgstr "Esta entrada está protegida. Para verla, escribe la contraseña:"
+
+#~ msgid "No Comments"
+#~ msgstr "Sin comentarios"
+
+#~ msgid "One Comment"
+#~ msgstr "1 Comentario"
+
+#~ msgid "% Comments"
+#~ msgstr "% Comentarios"
+
+#~ msgid "Reply"
+#~ msgstr "Responder"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Comentarios cerrados."
+
+#~ msgid "Posted on"
+#~ msgstr "Publicado el"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "by"
+#~ msgstr "por"
+
+#~ msgid "in"
+#~ msgstr "en"
+
+#~ msgid "Read more..."
+#~ msgstr "Leer más..."
+
+#~ msgid "Pages:"
+#~ msgstr "Páginas:"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Déjanos tu comentario"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Comentario"
+
+#~ msgid "[Top]"
+#~ msgstr "Inicio"
+
+#~ msgid "[Edit this entry]"
+#~ msgstr "Editar entrada"
+
+#~ msgid "Previous Image"
+#~ msgstr "Imagen Anterior"
+
+#~ msgid "Next Image"
+#~ msgstr "Imagen Siguiente"
+
+#~ msgid "No posts found."
+#~ msgstr "No se encontraron entradas."
+
+#~ msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+#~ msgstr "﻿Lo sentimos, no hay entradas que correspondan con tus criterios de búsqueda. Inténtalo de nuevo."
+
+#~ msgid "Proudly powered by"
+#~ msgstr "Copyright"
+
+#~ msgid "Main Navigation"
+#~ msgstr "Navegación Principal"
+
+#~ msgid "Choose file..."
+#~ msgstr "Seleccionar archivo"
+
+#~ msgid "File is not selected."
+#~ msgstr "Fichero no seleccionado."
+
+#~ msgid "Home"
+#~ msgstr "Inicio"
+
+#~ msgid "Search results for \"%s\""
+#~ msgstr "Resultados de búsqueda para \"%s\""
+
+#~ msgid "Learn More"
+#~ msgstr "Ver más"
+
+#~ msgid "Previous Page"
+#~ msgstr "Página Anterior"
+
+#~ msgid "Next Page"
+#~ msgstr "Página Siguiente"
+
+#~ msgid " Check if you want featured image of this post to be shown in the slider. You can add text description as well."
+#~ msgstr "Marcar si quieres que la imagen destacada de este post se muestre en el slide. Puedes agregar una descripción."
+
+#~ msgid "Page %s"
+#~ msgstr "Página %s"
+
+#~ msgid "Error 404 - Page Not Found"
+#~ msgstr "Error 404 - ¡Página no encontrada!"
+
+#~ msgid "Miguel García Martinez, Copyright"
+#~ msgstr "Miguel García Martinez, Copyright"
